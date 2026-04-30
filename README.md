@@ -44,7 +44,7 @@ part13/
 part14/
 ```
 
-Each directory contains exercises, small applications, and notes related to that section.
+Each directory contains exercises, small applications, or notes related to that section.
 
 ---
 
@@ -53,8 +53,8 @@ Each directory contains exercises, small applications, and notes related to that
 Most parts follow a similar setup:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd partX/project-name
+git clone https://github.com/DennLisbon/helsinki-fullstackopen-exercises.git
+cd partX/project-name  
 npm install
 npm start
 ```
