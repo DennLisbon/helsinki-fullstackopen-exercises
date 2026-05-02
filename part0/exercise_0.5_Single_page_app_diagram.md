@@ -24,7 +24,8 @@ sequenceDiagram
     server-->>browser: [{ "content": "Notes -- single page app", "date": "2026-5-2" }, ... ]
     deactivate server
 
-<img width="836" height="642" alt="image" src="https://github.com/user-attachments/assets/8f33bc4a-353b-4ac8-984b-0e4137fabc3f" />
-
     Note right of browser: The browser executes the callback function<br/>that renders the notes using the DOM-API
+
+
+<img width="836" height="642" alt="image" src="https://github.com/user-attachments/assets/8f33bc4a-353b-4ac8-984b-0e4137fabc3f" />
 
