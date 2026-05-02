@@ -27,5 +27,6 @@ sequenceDiagram
     Note right of browser: The browser executes the callback function<br/>that renders the notes using the DOM-API
 
 
-<img width="836" height="642" alt="image" src="https://github.com/user-attachments/assets/8f33bc4a-353b-4ac8-984b-0e4137fabc3f" />
+<img width="746" height="645" alt="image" src="https://github.com/user-attachments/assets/377ff785-2027-450d-aa6a-a4673a32fe02" />
+
 
