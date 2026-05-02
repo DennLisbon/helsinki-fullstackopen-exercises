@@ -4,7 +4,7 @@ sequenceDiagram
 
     Note over browser: User types a note and clicks the "Save" button
 
-    browser->>server: POST https://helsinki.fi
+    browser->>server: POST https://studies.cs.helsinki.fi/exampleapp
     activate server
     Note right of server: The server saves the new note to the array
     server-->>browser: HTTP status code 302 (Redirect to /notes)
