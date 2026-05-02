@@ -19,7 +19,7 @@ sequenceDiagram
 
     Note right of browser: The browser starts executing the spa.js code<br/>which requests the JSON data from the server
 
-    browser->>server: GET https://helsinki.fi
+    browser->>server: GET https://studies.cs.helsinki.fi/exampleapp/data.json
     activate server
     server-->>browser: [{ "content": "Notes -- single page app", "date": "2026-5-2" }, ... ]
     deactivate server
