@@ -36,4 +36,5 @@ sequenceDiagram
 
     Note right of browser: The browser executes the callback function that renders the notes
 
-<img width="901" height="652" alt="image" src="https://github.com/user-attachments/assets/ec8b9893-4e41-49ab-a0d6-dbdb4fb1220c" />
+<img width="888" height="652" alt="image" src="https://github.com/user-attachments/assets/223d99ab-4262-4328-8102-76a707f7cdf9" />
+
