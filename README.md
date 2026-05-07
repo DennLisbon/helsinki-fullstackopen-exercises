@@ -85,7 +85,7 @@ Some projects may include additional instructions inside their respective folder
 
 This section will be updated as I move forward:
 
-* [ ] Part 0 – Fundamentals of Web Apps
+* [x] Part 0 – Fundamentals of Web Apps
 * [ ] Part 1 – Introduction to React
 * [ ] Part 2 – Communicating with Server
 * [ ] Part 3 – Programming a Server with Node.js and Express
